@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 851 441" style="enable-background:new 0 0 851 441;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.85;fill:#631213;}
+	.st1{opacity:0.75;fill:#748391;}
+	.st2{opacity:0.85;fill:#441519;}
+	.st3{fill:#748391;}
+	.st4{fill:#631213;}
+	.st5{fill:#4D1417;}
+	.st6{fill:#FFFFFF;}
+	.st7{font-family:'MyriadPro-Semibold';}
+	.st8{font-size:27px;}
+	.st9{font-size:22px;}
+	.st10{font-size:18px;}
+	.st11{font-size:26px;}
+	.st12{fill:#8DC63F;}
+</style>
+<g>
+	<g>
+		<g>
+			<rect x="585" y="104" class="st0" width="266" height="62"/>
+			<rect x="585" y="46" class="st1" width="260" height="58"/>
+			<rect x="585" y="166" class="st1" width="260" height="206"/>
+			<polyline class="st2" points="851,166 845,166 845,172 			"/>
+		</g>
+		<g>
+			<rect x="-1" y="104" class="st0" width="266" height="62"/>
+			<rect x="5" y="46" class="st1" width="260" height="58"/>
+			<rect x="5" y="166" class="st1" width="260" height="206"/>
+			<polyline class="st2" points="-1,166 5,166 5,172 			"/>
+		</g>
+		<g>
+			<rect x="265" class="st3" width="320" height="441"/>
+			<g>
+				<rect x="259" y="70.5" class="st4" width="332" height="116"/>
+				<polyline class="st5" points="591,186.5 585,186.5 585,192.5 				"/>
+				<polyline class="st5" points="259,186.5 265,186.5 265,192.5 				"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 355.7726 47)" class="st6 st7 st8">Семинария</text>
+	<text transform="matrix(1 0 0 1 88.1983 84)" class="st6 st7 st9">Колледж</text>
+	<text transform="matrix(1 0 0 1 676.2032 84)" class="st6 st7 st9">Журнал</text>
+	<text transform="matrix(1 0 0 1 86.6676 130)"><tspan x="0" y="0" class="st6 st7 st10">Полностью</tspan><tspan x="-58.7" y="22" class="st6 st7 st10">дистанционное обучение</tspan></text>
+	<text transform="matrix(1 0 0 1 36.1788 215.5)"><tspan x="0" y="0" class="st6 st7 st10">Библейское основание.</tspan><tspan x="33.1" y="22" class="st6 st7 st10">Гибкий график.</tspan></text>
+	<text transform="matrix(1 0 0 1 625.9318 215.5)"><tspan x="0" y="0" class="st6 st7 st10">Актуально. Что-то там.</tspan><tspan x="18.6" y="22" class="st6 st7 st10">Еще и еще и еще...</tspan></text>
+	<text transform="matrix(1 0 0 1 659.3087 130)"><tspan x="0" y="0" class="st6 st7 st10">Современное</tspan><tspan x="-52.8" y="22" class="st6 st7 st10">реформатское богословие</tspan></text>
+	<text transform="matrix(1 0 0 1 373.2735 118.5)"><tspan x="0" y="0" class="st6 st7 st11">Высокий </tspan><tspan x="-91.6" y="32" class="st6 st7 st11">академический уровень</tspan></text>
+	<text transform="matrix(1 0 0 1 314.2932 254)"><tspan x="0" y="0" class="st6 st7 st11">Бесплатно. Удобно</tspan><tspan x="-8.5" y="36" class="st6 st7 st11">Полезно. Интересно</tspan></text>
+	<path class="st12" d="M474.7,382.5h-98.3c-12.2,0-22-9.8-22-22v0c0-12.2,9.8-22,22-22h98.3c12.2,0,22,9.8,22,22v0
+		C496.7,372.7,486.8,382.5,474.7,382.5z"/>
+	<text transform="matrix(1 0 0 1 381.2693 367)" class="st6 st7 st9">Перейти</text>
+	<g>
+		<path class="st12" d="M749,319.5h-68c-9.4,0-17-7.6-17-17v0c0-9.4,7.6-17,17-17h68c9.4,0,17,7.6,17,17v0
+			C766,311.9,758.4,319.5,749,319.5z"/>
+		<text transform="matrix(1 0 0 1 678.6118 307)" class="st6 st7 st10">Перейти</text>
+	</g>
+	<g>
+		<path class="st12" d="M166,319.5H98c-9.4,0-17-7.6-17-17v0c0-9.4,7.6-17,17-17h68c9.4,0,17,7.6,17,17v0
+			C183,311.9,175.4,319.5,166,319.5z"/>
+		<text transform="matrix(1 0 0 1 95.6119 307)" class="st6 st7 st10">Перейти</text>
+	</g>
+</g>
+</svg>
