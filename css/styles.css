@@ -4921,7 +4921,7 @@ p.developers-names a:hover {
         padding: 0.8rem 0 0;
     }
     .logo-column {
-        max-width: 24rem;
+        max-width: 20rem;
         margin: 0 auto;
         float: none;
     }
@@ -4929,7 +4929,10 @@ p.developers-names a:hover {
         display: block;
     }
     ul.language-menu li {
-        padding: 0 0.8rem 0 0;
+        padding: 0 0.6rem 0 0;
+    }
+    ul.language-menu li a {
+        font-size: 1.2rem;
     }
     .favorites-columns {
         width: 50%;
